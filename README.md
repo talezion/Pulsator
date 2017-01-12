@@ -23,7 +23,7 @@ Great For:
 Add into your Podfile.
 
 ```:Podfile
-pod "Pulsator"
+pod 'Pulsator'
 ```
 
 Then `$ pod install`
